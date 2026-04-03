@@ -1,0 +1,12 @@
+{
+  "name": "student-mvc-app",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "*",
+    "mongoose": "*",
+    "ejs": "*",
+    "body-parser": "*",
+    "method-override": "*",
+    "express-validator": "*"
+  }
+}
